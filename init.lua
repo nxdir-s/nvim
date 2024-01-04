@@ -1,1 +1,2 @@
-require("nadir")
+require("nadir.core")
+require("nadir.lazy")
